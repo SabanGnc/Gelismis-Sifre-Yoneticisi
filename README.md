@@ -1,7 +1,7 @@
 # 🛡️ Gelişmiş Şifre Yöneticisi Projesi 🗝️
 Proje Açıklaması 📝
 
-
+Bu proje, Python dili kullanılarak geliştirilmiş gelişmiş bir şifre yöneticisidir. Şifre yöneticisi, kullanıcıların güvenli ve kolay bir şekilde hesap bilgilerini yönetmelerine yardımcı olmayı amaçlar. Artık şifreleri unutmak veya güvenli olmayan yöntemlerle saklamakla uğraşmanıza gerek kalmayacak! 🚀
  
 # Uygulama Resimleri 😊
 
